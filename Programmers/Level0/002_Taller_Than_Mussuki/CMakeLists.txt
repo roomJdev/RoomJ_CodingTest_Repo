@@ -1,0 +1,1 @@
+add_executable(Taller_Than_Mussuki solution.cpp)

@@ -1,0 +1,20 @@
+cmake_minimum_required(VERSION 3.20)
+project(RoomJ_CodingTest_Repo)
+
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+
+add_subdirectory(Programmers/Level0/001_Count_Duplicates)
+add_subdirectory(Programmers/Level0/002_Taller_Than_Mussuki)
+add_subdirectory(Programmers/Level0/003_Sum_Of_Two_Numbers)
+add_subdirectory(Programmers/Level0/004_Difference_Of_Two_Numbers)
+add_subdirectory(Programmers/Level0/005_Product_Of_Two_Numbers)
+add_subdirectory(Programmers/Level0/006_Quotient)
+add_subdirectory(Programmers/Level0/007_Division_And_Truncation)
+add_subdirectory(Programmers/Level0/008_Compare_Numbers)
+add_subdirectory(Programmers/Level0/009_Fraction_Addition)
+add_subdirectory(Programmers/Level0/010_Double_Array)
+add_subdirectory(Programmers/Level0/011_Remainder)
+add_subdirectory(Programmers/Level0/012_Median)
+add_subdirectory(Programmers/Level0/013_Mode)
+
